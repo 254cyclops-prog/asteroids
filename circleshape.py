@@ -1,5 +1,5 @@
 import pygame
-from constants import LINE_WIDTH, PLAYER_RADIUS
+from constants import LINE_WIDTH
 
 
 # Base class for game objects
